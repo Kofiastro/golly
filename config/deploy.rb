@@ -4,7 +4,7 @@ lock "~> 3.19.1"
 set :application, "golly"
 set :repo_url, "git@github.com:Kofiastro/golly.git"
 
-Default branch is :main
+#Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
 # Default deploy_to directory is /var/www/my_app_name
